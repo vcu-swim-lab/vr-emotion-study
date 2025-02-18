@@ -1,14 +1,3 @@
-# Ignore Unity Library files and temp directories
-Emotion Gathering Tool/Library/
-Emotion Gathering Tool/Temp/
-Emotion Gathering Tool/Obj/
-Emotion Gathering Tool/Build/
-
-# Ignore the outputs of experiments
-Emotion Gathering Tool/VideoRecordings/
-
-# Ignore all video files
-Emotion Gathering Tool/Assets/Videos/*.mp4
 #mp4 files are too large
 *.mp4
 #Unity gitignore
@@ -20,6 +9,11 @@ Emotion Gathering Tool/Assets/Videos/*.mp4
 */[Bb]uilds/
 */[Ll]ogs/
 */[Uu]ser[Ss]ettings/
+
+Library/*
+Temp/*
+UserSettings/*
+VideoRecordings/*
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
