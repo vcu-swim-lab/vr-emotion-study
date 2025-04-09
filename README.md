@@ -31,7 +31,7 @@ Now you are ready to run the project.
 The experiment consists of two parts: the first part shows seven videos shuffled randomly, each evoking a specific emotion.
 
 For each video, please ask the subject to complete a section from the google form related to the video they saw.
-You can find the form [here](https://forms.gle/6CBRNqYE67rHgoXcA).
+You can find the form [here]([https://forms.gle/6CBRNqYE67rHgoXcA](https://docs.google.com/forms/d/e/1FAIpQLSc2rsAwVYuVXZTkve5oVQEMmNknyEPRVU_aoOqYee3J0f8ANw/viewform?usp=header).
 
 On the second part the subject is asked to mimic the emotions shown to him by words. When each video starts, the project measures certain aspects of the facial expressions, along with a video of the subject's face (as an avatar).
 
