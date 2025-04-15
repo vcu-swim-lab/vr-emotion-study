@@ -9,7 +9,7 @@
 3. Open the project on [Github](https://github.com/vcu-swim-lab/vr-emotion-study.git), download it (click Code > Download Zip) and unzip at your location of choice.
 ![alt text](Docs/image-1.png)
 
-4. Download the videos from [here](https://drive.google.com/drive/folders/1jk0xmhbNAqwscgyRv5j2f-RBSsarA79Q?usp=drive_link). Unzip the videos and place them in the [Assets/Videos](./Assets/Videos/) folder of the project.
+4. Download the videos from [here](https://drive.google.com/drive/folders/1g_4WhicdfbR_D_R83cXnmfYfW-LbMYch?usp=drive_link). Unzip the videos and place them in the [Assets/Videos](./Assets/Videos/) folder of the project.
 5. Within the Projects menu in Unity Hub, click "Add" then "Add project from disk". Navigate to your local copy of the project and click "Add project".
 ![alt text](Docs/image-2.png)
 
